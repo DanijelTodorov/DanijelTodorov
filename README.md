@@ -26,12 +26,12 @@
 
 
 ## :man_technologist: About Me:
-I am a passionate **blockchain developer** from Slovenia, with almost 2 years of experience in blockchain development, enthusiastic about blockchain and web3. I'm looking forward to learn something new everyday and contribute to the industry!
+I am a passionate **blockchain developer** from Serbia, with over 4 years of experience in blockchain development, enthusiastic about blockchain and web3. I'm looking forward to learn something new everyday and contribute to the industry!
 - 🔭 I’m currently working on more blockchain and web3 projects.
 - 🌱 I’m currently learning more about advanced DeFi and exploring more DeFi protocols (their smart contracts).
-- 💻 I'm looking for a freelancing job, if you want to hire me, please send me an [email](mailto:contactme@tijan.dev).
+- 💻 I'm looking for a freelancing job, if you want to hire me, please contact with me.
 - 💬 Ask me about anything blockchain related :smile:.
-- 📫 How to reach me: email me [contactme@tijan.dev](mailto:contactme@tijan.dev), you can also contact me from my [website](https://tijan.dev).
+<!-- - 📫 How to reach me: email me [contactme@tijan.dev](mailto:contactme@tijan.dev), you can also contact me from my [website](https://tijan.dev).-->
 
 
 ## :hammer_and_wrench: Languages and Tools:
