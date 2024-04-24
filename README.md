@@ -1,11 +1,11 @@
 <div id="hey" align="center">
   <h1>
-    I'm Tijan
+    I'm Stojan
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=40 />
   </h1>
 </div>
 
-<div id="badges" align="center">
+<!--<div id="badges" align="center">
   <a href="mailto:contactme@tijan.dev">
     <img src="https://img.shields.io/badge/-Email%20Me-red?style=for-the-badge" alt="Website Badge"/>
   </a>
@@ -22,7 +22,7 @@
 
 <div id="profile-views" align="center">
   <img src="https://komarev.com/ghpvc/?username=0xTijan&style=flat-square&color=blue" alt="Profiel Views"/>
-</div>
+</div> -->
 
 
 ## :man_technologist: About Me:
