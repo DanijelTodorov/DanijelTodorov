@@ -53,7 +53,6 @@ I am a passionate **blockchain developer** from Slovenia, with almost 2 years of
    <img src="https://seeklogo.com/images/G/ganache-logo-1EB72084A8-seeklogo.com.png" title="Ganache" alt="Ganache" width="40" height="40" />
    <img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Chainlink_Logo.png" title="Chainlink" alt="Chainlink" width="40" height="40" />
    <img src="https://seeklogo.com/images/W/web3js-logo-62DEE79B50-seeklogo.com.png" width=40 height=40 alt="Web3js" title="Web3js" />
-      <img src="https://gitcoin.co/blog/wp-content/uploads/2022/07/ethersjs.png" width=40 height=40 alt="Ethers" title="Ethers" />
 </div>
  
 
